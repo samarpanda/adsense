@@ -1,0 +1,11 @@
+label{
+  display: inline-block;
+  width: 90px;
+}
+input {
+  width: 300px;
+}
+.clear{
+  clear: both;
+  margin-bottom: 20px;
+}
